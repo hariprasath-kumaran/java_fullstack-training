@@ -22,3 +22,18 @@ Basics of Html
 6. HTML Images
 7. HTML Hyperlinks
 8. HTML Audio
+ 
+
+Basics of Css
+-------------
+1. CSS Selectors
+    *Tag Selectors (p,nav,table)
+    *Attribute Selectors(#id) -->Unique
+    *Class Selectors(.logo)
+    *Input Selectors(input [type="text])
+
+ 
+
+    *Relational Selectors
+    *Pseudo element Selectors
+    *Pseudo Selectors
