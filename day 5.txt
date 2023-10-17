@@ -1,4 +1,0 @@
-hosted the developed website
-  learning some bootstrap 
-  and some javascript concepts
-  workout some exercises
