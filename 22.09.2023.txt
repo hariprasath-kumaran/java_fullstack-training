@@ -1,0 +1,16 @@
+Cloning an real time website
+----------------------------
+    *Cloned the login screen of the codechef website.
+
+Tags used to build the website
+------------------------------
+    1.flex
+    2.div
+    3.form
+    4.pseudo Selectors
+    5.Relational selectors 
+
+Challenges faced
+----------------
+    *Faced a problem in getting the "Or-division". Solved it by using two divsions for line and a Paragraph
+     tag for the "or".
