@@ -1,0 +1,13 @@
+Cloning a complete website
+--------------------------
+    *Today, Cloned a complete single page website as a static website.
+
+Cloned website
+--------------
+    jiocinema
+Tags used
+---------
+    *div
+    *img
+    *Relative CSS
+    *Pseudo CSS
