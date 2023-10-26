@@ -1,0 +1,32 @@
+Java Concepts 
+-------------
+    *Collection 
+        -List 
+            1.ArrayList 
+            2.LinkedList 
+        -Set 
+            1.HashSet 
+                -LinkedHashSet 
+            2.TreeSet 
+        -Map 
+            1.HashMap 
+    *File Handling 
+        -Reading a file 
+        -Wrtiting to file 
+        -Copying file
+    *JUnit testing 
+        -Maven dependencies 
+        -Annotation 
+            1.BeforeEach 
+            2.BeforeAll 
+            3.AfterEach 
+            4.AfterAll 
+            5.Test 
+            6.Disable 
+    *Thread 
+        -Deadlock 
+        -Preventing deadlock in the following ways,
+            1.Wait()
+            2.Notify()
+            3.NotifyAll()
+

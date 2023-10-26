@@ -1,0 +1,10 @@
+TypeScript concepts 
+
+    Classes and Objects 
+    how to use the injection in the method
+    
+    Constructor 
+    Inheritance 
+    access modifiers (public, private, protected)
+    Super Keyword 
+    Arrays 

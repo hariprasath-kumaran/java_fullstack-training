@@ -1,0 +1,11 @@
+Done dynamic form validation using javascript which contains:
+    Email address
+    Username
+    Password
+    Confirm Password
+    Mobile number
+    Gender
+    Country
+    Submit button.
+
+After that learnt about Async and Await in JS.

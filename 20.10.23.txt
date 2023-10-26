@@ -1,0 +1,11 @@
+  *URL query params 
+        -Used to pass data between components or to interact with the URL.
+        -The "ActivatedRoute" class is used for this.
+
+    *Lottie - for animation.
+
+    *CanDeactivate 
+        -It is a guard used to control the navigation.
+        -It is used to notify/get confirmation from user.
+
+->Pagination

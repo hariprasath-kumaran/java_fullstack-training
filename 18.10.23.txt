@@ -1,0 +1,8 @@
+
+Task - 1 
+
+ To complete the E-commerce application and host it in the github 
+ 
+Task - 2
+
+ To add validation in the formvalidation in the angular project.

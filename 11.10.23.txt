@@ -1,0 +1,19 @@
+Angular 
+    *version - 16 
+    *angular setup
+    *angular life cycle 
+    
+
+
+Angular concepts 
+
+    *Component 
+    *Decorators
+    *Declarations 
+    *Providers 
+    *Bindings 
+    *String Interpolation 
+    *Property Binding 
+    *Event Binding
+    *Two way Binding 
+    *Directives (Structural)

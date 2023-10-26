@@ -1,0 +1,4 @@
+Week end task
+
+* To prepare the UI for an E-Commerce website with Angular 
+* To prepare an angular project to validate the name, email, & Phonenumber
