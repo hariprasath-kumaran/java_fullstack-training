@@ -1,0 +1,9 @@
+Started building e-commerece using Java
+imporatant Concepts
+*abstraction
+*inheritance
+*constructor
+*login regtier
+validation
+
+*and Display home page using Home controller component

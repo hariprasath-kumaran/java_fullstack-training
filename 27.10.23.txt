@@ -1,0 +1,15 @@
+covered e-commerece using Java
+on today we done
+*cart
+*product
+*order
+*price total
+
+*loading the product with csv file
+with the help of File function in Java
+
+Task:
+We have to  create admin
+*to view username password
+*to view products
+*to check order history 
