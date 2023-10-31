@@ -12,9 +12,6 @@ Task completed
     ->Use Model, View and Controller architecture.
 
 
-Github Repository link
-----------------------
-->E-commerce using java - https://github.com/sivanesanmurugan/Java-Shopping
 
 
 Database basics 
