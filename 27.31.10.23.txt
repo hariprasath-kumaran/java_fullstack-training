@@ -1,0 +1,9 @@
+Learned Java8
+predicate
+Bipredicate
+functions
+map
+filter
+streams
+manipulate an array
+and some other concepts
