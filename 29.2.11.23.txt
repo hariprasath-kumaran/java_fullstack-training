@@ -1,0 +1,18 @@
+concepts
+---------
+
+learn sql
+insert
+update 
+delete
+alter
+drop
+truncate
+ joins
+
+ tables
+
+and some basic sql knowledge
+
+exercise 
+create db for ecommerce
