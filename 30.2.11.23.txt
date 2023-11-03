@@ -1,0 +1,12 @@
+makeing queries for tables
+
+connect tables using foreign keys 
+
+for
+* cart
+*orders
+*login
+*register
+
+started learning servlets
+connecting html and java
