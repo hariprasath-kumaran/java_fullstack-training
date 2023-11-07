@@ -1,0 +1,35 @@
+Tightly coupling,loosely coupling
+inversion &control
+Dependency injection
+---------------------------------
+constructer injection,setter injection
+--------------------------------------
+@component @autowired,@primary,@qualifer,@autowired by name
+CDI
+-----------
+named @inject 
+---------------------
+@configuration @componentscan }-@springBootapplication
+---------------
+@scope
+------------- 
+singleton,protoype
+
+life cycle of a bean
+-----------------
+@postconsturct
+@predestroy
+
+
+annotationApplication context
+--------------------------
+@RestController
+@Requestbody
+@pathvariable
+@getmapping
+@post 
+@delete
+@put
+data.sql
+JdbcTemplate
+applications.property
