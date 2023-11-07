@@ -1,0 +1,39 @@
+SPRING MVC
+==========
+DI 
+IOC
+ 
+Spring MVC:
+to build the spring project, at first the setup has to be made.
+several plugins and dependency has to be imported in the pom file, and imported in the project.
+    plugin: maven-war-plugin
+    dependency: - jstl
+                - springweb-MVC
+                - springweb
+                - spring-context
+                - javax.servlet.api
+
+dispatcher servlet: DispatcherServlet acts as the Front Controller for Spring-based web applications.it is used to navigate to other pages.
+    usually we will create separate servlet and servlet-mapping to navigate to other controller and stuff,
+    but dispatcher servlet automatically do this process, we just need to create and put path in the required place.
+
+    In DispatcherServlet , we need to imported or refer certain things to the project, and it has to be in the <beans> tag.
+    xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans.xsd
+http://www.springframework.org/schema/context
+http://www.springframework.org/schema/context/spring-context.xsd
+http://www.springframework.org/schema/mvc
+http://www.springframework.org/schema/mvc/spring-mvc.xsd">
+<context:component-scan base-package="com.springMVC"
+
+Model: the model can supply attributes used for rendering views.
+To provide a view with usable data, we simply add this data to its Model object. Additionally, maps with attributes can be merged with Model instances
+@RequestParam :=> it is used to get the values from the form.@RequestParam annotation enables spring to extract input data that may be passed as a query, form data, or any arbitrary custom data.
+@RequestMapping :=> which is used to map HTTP requests to handler methods of MVC and REST controllers. In Spring MVC applications, the DispatcherServlet (Front Controller) is responsible for routing incoming HTTP requests to handler methods of controllers.
+                When configuring Spring MVC, you need to specify the mappings between the requests and handler methods.
+    we can set a class object to form using model, and get the values as specified in the class.
+    and store it in the database.
