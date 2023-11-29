@@ -1,0 +1,12 @@
+Completed backend of the project
+   --->user with Authentication 
+   -->Book
+   -->Cart
+
+
+
+
+   *Started with the UI part
+        - Login 
+        - Register 
+        - Home 

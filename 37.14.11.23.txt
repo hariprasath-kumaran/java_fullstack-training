@@ -1,0 +1,19 @@
+started project 
+  ---------------Book shopping-----------
+  models:
+    -->Appuser
+    -->address
+    -->cart 
+    -->order
+    -->orderstatus
+    -->Role
+
+
+
+     -> Controller 
+        -> Request and Response Model
+        -> Security configuration 
+        -> Exception 
+        -> Service 
+        -> DTO 
+        -> Data loader 

@@ -1,0 +1,6 @@
+ *Continued with the integration part of back end and front end  
+        - Saved images in the server and and added the file name to the database.
+        - Accessed the images from the database and loaded it in the front end.
+        - Made few changes in the UI.
+        - Validated the date for booking.
+        - GET for User profile.

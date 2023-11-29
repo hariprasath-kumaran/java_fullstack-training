@@ -1,0 +1,12 @@
+continuation with integration of backend and frontend
+----->Integrated all post Methods
+      --->post
+       *Book
+       *category
+  ------>Integrated all put Methods 
+     -->put category
+     -->put BooK
+
+     ---->Integrated all delete methods 
+     --->Delete category
+     --->Delete Book

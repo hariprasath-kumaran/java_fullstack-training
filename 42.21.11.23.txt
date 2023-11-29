@@ -1,0 +1,19 @@
+continuation with the frontend
+ form validation
+ --->Login
+ --->Register
+ -->addBook
+ -->addCategory
+
+
+
+
+
+
+ - Integrated login with the back-end.
+        - Started integrating other parts to the back-end.
+
+
+Topics 
+------
+    *Communication between components.

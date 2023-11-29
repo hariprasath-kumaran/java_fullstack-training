@@ -1,0 +1,19 @@
+started with the frontend part of the project
+-components
+ --->admiside 
+ *home
+ *add-Book
+ *add-categories
+ *add-userdetails
+ *add-orders
+ -->user
+ *Home
+ *cart
+ *order
+common
+-->
+*Login
+*Register
+ - Added Router to the components for the navigations.
+        - Included the required forms.
+        - Added custom and lottie animations 
