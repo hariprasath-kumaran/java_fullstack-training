@@ -1,0 +1,15 @@
+--------Book shopping-------
+coming to the end of project
+I am currently working on a book shopping website. I have completed all the basic functionalities such as adding books
+and some styling
+challenges:
+orderstatus getting looped every time
+video has  been updated
+solution
+i implented a function for orderstatus to not getting looped
+recordings has been done
+-------stared a new topics----------
+*structs
+*custom validation
+*lazy loading
+

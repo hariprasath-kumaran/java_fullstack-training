@@ -1,0 +1,13 @@
+------BOOK shopping-------
+
+close to ended the front end 
+functionalities
+*upload images
+challenges
+*shows request 404 error
+which i entered the url is wrong
+*does not show any image in the browser
+after i enterd correct url 
+*it shows blob in the database
+which i enterd the photo datatyoe is blob
+lotties implemented in front end side

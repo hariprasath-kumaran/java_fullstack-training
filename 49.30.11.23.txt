@@ -1,0 +1,14 @@
+------BOOK shopping------
+
+close to the functionalities of frontend
+*started with checkout process
+*the user needs to checkout
+*and the admin needs to track the orders
+*and update the status of the order 
+*while stating with this processs 
+the main task is store orders of the users in the database
+**user can choose a product and add it to cart
+and the user enter the address and place the order
+and then the admin will see all the orders placed by the users
+and some styling
+
